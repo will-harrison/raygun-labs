@@ -12,7 +12,11 @@ const projects = [
     title: "Circles",
     description: "A game to test your speed and reflexes.",
     github: "https://github.com/will-harrison/circles",
+<<<<<<< HEAD
     demo: "https://circles-game.surge.sh",
+=======
+    demo: "https://will-harrison.github.io/circles",
+>>>>>>> 741db0a10a53e19bcb6160a58b71c95033a9d2bd
     technologies: ["React", "Hapi", "JSON Web Tokens", "Rethinkdb", "styled-components"],
     image: CircleScreenshot
   },

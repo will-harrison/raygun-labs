@@ -17,7 +17,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+<<<<<<< HEAD
   "homepage": "http://raygun-labs.com",
+=======
+  "homepage": "https://will-harrison.github.io/raygun-labs",
+>>>>>>> 741db0a10a53e19bcb6160a58b71c95033a9d2bd
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
